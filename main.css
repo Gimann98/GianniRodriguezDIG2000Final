@@ -1,0 +1,23 @@
+.navbar{ background:#1F1F1F;}
+
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+
+.nav-link{ margin-right: 1em !important;}
+
+.nav-link:hover{ background: #1F1F1F; color: #f97300; }
+
+.navbar-collapse{ justify-content: flex-end;}
+
+.navbar-toggler{  background:#fff !important;}
+
+
+body {
+    overflow-x: hidden;
+    font-family: 'Times New Roman', Times, serif;
+    color: #1F1F1F
+    
+}
+/*--- landing Page ---*/
+.home-inner {
+    background-image: url(images/Header.JPG);
+}
